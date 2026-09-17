@@ -1,0 +1,15 @@
+# Environment / secrets
+.env
+.env.*
+
+# Power BI
+*.pbix
+*.pbit
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
